@@ -1,0 +1,26 @@
+.magazineBody{
+    background-color: #fcf3f1;
+    margin-bottom: 100px;
+}
+
+.magTitle{
+    font-family: MyNewFont;
+}
+
+.magDesc{
+    font-family:MyNewFont;
+}
+
+.titleMag{
+    font-family:MyNewFont;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.readBtn{
+    background-color: #bc3d19 !important;
+    color: white !important;
+    border: none;
+    border-radius: 0%;
+    width: 150px;
+}

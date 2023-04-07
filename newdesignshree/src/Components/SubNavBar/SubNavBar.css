@@ -1,0 +1,23 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(../../fonts/muli/Muli-Light.ttf);
+}
+
+.subnavbar {
+  font-family: myFirstFont;
+  width: 100%;
+  /* margin-top: 1rem; */
+  box-shadow: 2px 2px 5px #d1d5db;
+  position: fixed;
+  top: 8.6%;
+  width: 100%;
+  z-index: 1;
+  background: #fff;
+}
+.designNav {
+  position: fixed;
+  top: 13%;
+  width: 100%;
+  z-index: 1;
+  background: #fff;
+}

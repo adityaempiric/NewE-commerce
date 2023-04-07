@@ -1,0 +1,23 @@
+.mainNav{
+    /* box-shadow: 2px 2px 10px #888888; */
+    border-bottom: 0.5px solid #d1d5db;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    background: #fff;
+    width: 100%;
+}
+
+.srcBtn{
+    border:1px solid #d1d5db !important;
+    border-radius: 0%;
+}
+
+.srcText{
+    border-radius: 0%;
+}
+
+.srcText:focus{
+    box-shadow: none !important;
+    border-color: #d1d5db   ;
+}

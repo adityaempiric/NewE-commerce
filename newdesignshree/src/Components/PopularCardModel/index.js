@@ -1,0 +1,1 @@
+export { PopularCardModel } from './PopularCardModel';

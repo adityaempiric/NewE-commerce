@@ -1,0 +1,24 @@
+.categoryCard {
+  background-color: #f7f7f7;
+  border: none;
+  border-radius: 0%;
+}
+
+.categoryCard:hover {
+  box-shadow: 5px 9px 20px #d3d3d3;
+
+
+}
+
+.topImg{
+    transition: transform .8s;
+}
+
+.topImg:hover{
+    transform: scale(1.1);
+}
+
+.topTitle{
+    font-family: myNewFont;
+    font-size: 30px;
+}

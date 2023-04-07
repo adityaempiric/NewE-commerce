@@ -1,0 +1,15 @@
+
+.cardTitle{
+    font-family:myFirstFont ;
+    color: black;
+    font-weight: 500;
+}
+
+.cardImg{
+    object-fit: cover;
+    border-radius: 0% !important;
+}
+
+.cardModel{
+    margin-top: 10rem !important;
+}

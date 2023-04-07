@@ -1,0 +1,21 @@
+.eventBody{
+    background-color: #feedd9;
+}
+
+.inputText{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+
+}
+
+.inputText::placeholder{
+    font-family: myFirstFont;
+    color: black;
+}
+
+.inputText:focus-visible{
+    outline: none !important;
+}
+

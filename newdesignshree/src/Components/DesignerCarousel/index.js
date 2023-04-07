@@ -1,0 +1,1 @@
+export { DesignerCarousel } from './DesignerCarousel';

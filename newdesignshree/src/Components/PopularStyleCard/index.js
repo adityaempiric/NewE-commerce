@@ -1,0 +1,1 @@
+export { PopularStyleCard } from './PopularStyleCard';

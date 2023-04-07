@@ -1,0 +1,9 @@
+@font-face{
+    font-family: myNewFont;
+    src: url(../../fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+.designerTitle{
+    font-family: myNewFont;
+    font-size: 30px;
+}

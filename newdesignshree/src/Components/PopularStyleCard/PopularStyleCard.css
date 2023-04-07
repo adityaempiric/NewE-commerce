@@ -1,0 +1,15 @@
+.cardImg{
+    object-fit: cover;
+}
+
+.popularCard{
+    border: none;
+}
+
+.popularTitle{
+    font-size: medium;
+}
+
+.popularText{
+    font-size: smaller;
+}

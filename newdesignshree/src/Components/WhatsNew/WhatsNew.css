@@ -1,0 +1,17 @@
+.whatsTitle{
+    font-family: MyNewFont;
+    font-size: 30px;
+}
+
+.whatsText{
+    font-family: MyNewFont;
+}
+
+.whatsImg{
+    border-radius: 0%;
+    transition: transform .8s;
+}
+
+.whatsImg:hover{
+    transform: scale(1.02);
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../../fonts/muli/Muli-Light.ttf);
+  }
+  
+.dropDownTitle {
+    font-family: myFirstFont;
+    background-color: white !important;
+    color: black !important;
+    border: none;
+
+  }
